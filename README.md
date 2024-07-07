@@ -1,7 +1,5 @@
 
-# Project Title
-
-Urban Bike Rental Prediction
+# Urban Bike Rental Prediction
 
 # Description
 
